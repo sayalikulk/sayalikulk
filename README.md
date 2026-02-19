@@ -2,8 +2,7 @@
 🎓 M.S. ECE @ UW–Madison (Dec 2026)  
 🧪 Targeting **Design Verification / CPU Verification** roles
 
-I like the bring-up + debug loop: reproduce → waveform dive → add checkers/assertions → lock it in with regressions.  
-Right now I’m focused on **SystemVerilog DV**, **CPU microarchitecture (pipeline + caches)**, and **Linux/OS fundamentals**.
+I like the bring-up + debug loop: reproduce → waveform dive → add checkers/assertions → lock it in with regressions. Right now I’m focused on **SystemVerilog DV**, **CPU microarchitecture (pipeline + caches)**, and **Linux/OS fundamentals**.
 
 ---
 
