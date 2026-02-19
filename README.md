@@ -15,12 +15,6 @@ Right now I’m focused on **SystemVerilog DV**, **CPU microarchitecture (pipeli
 
 ---
 
-### 🛠️ Toolbox
-💻 **SystemVerilog/Verilog** • C/C++ • Python • Bash  
-🔍 Questa/ModelSim • Git • Linux • GDB • Valgrind
-
----
-
 ### 🔗 Let’s connect
 📩 **Email:** sskulkarni34@wisc.edu  
 💼 **LinkedIn:** https://linkedin.com/in/sayalikulk  
