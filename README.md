@@ -3,10 +3,6 @@
   M.S. ECE @ UW–Madison (Dec 2026) • Interested in <b>Design Verification / CPU Verification</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayalikulk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 👩‍💻 About me
