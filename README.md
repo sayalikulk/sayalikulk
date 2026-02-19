@@ -26,9 +26,3 @@ I like the bring-up + debug loop: reproduce → waveform dive → add checkers/a
 📩 **Email:** sskulkarni34@wisc.edu  
 💼 **LinkedIn:** https://linkedin.com/in/sayalikulk  
 🧑‍💻 **GitHub:** https://github.com/sayalikulk
-
----
-
-### ⚡ GitHub Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sayalikulk&show_icons=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayalikulk&layout=compact" />
