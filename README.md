@@ -6,6 +6,14 @@ I like the bring-up + debug loop: reproduce → waveform dive → add checkers/a
 
 ---
 
+### 🚀 Projects
+- 🧠 **RISC-V 5-Stage CPU + Caches** — RV32I pipeline (hazards: stall/flush/forwarding) + I/D caches; verified with self-checking tests + waveform debug.  
+- 🤖 **FPGA Segway Controller** — PID control, SPI sensor interface, PWM motor drive; SV testbenches + synthesis flow.  
+- 🐚 **Custom Unix Shell (wsh)** — fork/exec/wait, pipelines (pipe/dup2), redirection; memory-safe (Valgrind-clean).  
+- 🎥 **Real-time Deepfake Detection (ViT)** — ViT-based video pipeline tuned for fast inference; trained on FaceForensics++ (IEEE publication).
+
+---
+
 ### 🧰 Toolbox
 🧪 **DV / RTL:** SystemVerilog, Verilog • self-checking TBs • scoreboarding • directed + randomized testing • (basic) SVA • (basic) functional coverage  
 🧠 **Arch / OS:** RISC-V pipeline (hazards, stall/flush/forwarding) • caches/memory hierarchy • POSIX (fork/exec/wait, pipes/dup2, redirection)  
